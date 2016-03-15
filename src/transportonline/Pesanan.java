@@ -14,7 +14,6 @@ public class Pesanan {
     private String jenisPesanan;
     private String tujuan;
     private int tarif;
-    private int jarak;
 
     public Pesanan(String idTrans, String jenisPesanan, 
             String tujuan, int jarak, int tarif){
