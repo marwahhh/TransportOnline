@@ -12,7 +12,7 @@ package tubestransportonline;
 public class Pelanggan extends Orang {
 
     private Pesanan[] pesanan;
-    private long idPelanggan;
+
     private String alamat;
     private int jmlPesanan;
 
